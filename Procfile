@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run sel_your_path.py
